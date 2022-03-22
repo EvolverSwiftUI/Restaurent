@@ -1,9 +1,8 @@
 # Restaurent Website on Single webpage
+
 Tech Stack Used:
 1. HTML
-<br>
 2. CSS
-<br>
 3. Bootstrap Grid System
 
 This single page website is responsive layout based on devices from mobile to tabs to desktops as well.
