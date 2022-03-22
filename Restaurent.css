@@ -268,3 +268,8 @@
     font-family: "Roboto";
     font-size: 14px;
   }
+
+  .thanking-customer-section-modal-title {
+    color: #d0b200;
+    font-weight: 800;
+  }
