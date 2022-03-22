@@ -1,4 +1,12 @@
 # Restaurent Website on Single webpage
+Tech Stack Used:
+1. HTML
+<br>
+2. CSS
+<br>
+3. Bootstrap Grid System
+
+This single page website is responsive layout based on devices from mobile to tabs to desktops as well.
 
 # Navbar Section
 <img width="1437" alt="Screen Shot 2022-03-22 at 12 13 50 PM" src="https://user-images.githubusercontent.com/93422294/159423658-e2314d56-8305-4654-bf8f-275302f0ac9e.png">
